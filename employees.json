@@ -1,27 +1,9 @@
 [
   {
-    "firstName": "Abdulahi",
-    "lastName": "Abdurahman",
-    "position": "Management",
-    "salary": 1200,
-    "updateSalary": "80"
-  },
-  {
-    "firstName": "Khadar",
-    "lastName": "Muxiyadin",
-    "position": "Finance",
-    "salary": 1000
-  },
-  {
-    "firstName": "Hamud",
-    "lastName": "Abdiqani",
-    "position": "Marketing",
-    "salary": 800
-  },
-  {
-    "firstName": "Kamal",
-    "lastName": "Husni",
-    "position": "Finance",
-    "salary": 1600
+    "firstName": "Firstname",
+    "lastName": "Lastname",
+    "position": "Position",
+    "salary": 0,
+    "updateSalary": "Updated Salary"
   }
 ]
