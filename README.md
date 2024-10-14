@@ -1,6 +1,6 @@
-# Employee Management System
-
-## Overview
+# CLI Employee management software
+#### Video Demo:  <URL HERE>
+## Description:
 
 This Employee Management System is a command-line application that allows users to manage employee information such as their first name, last name, position, and salary. It provides functionalities to add, update, delete, view employees, and save the employee data to a JSON file (`employees.json`) for future use. The application uses `inquirer` for interactive prompts and `fs` (File System) to handle file operations.
 
